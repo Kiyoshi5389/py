@@ -28,4 +28,4 @@ digital=Label(root,text="AskPython's Digital Clock",font="times 24 bold")
 digital.grid(row=0,column=2)
  
 nota=Label(root,text="hours        minutes        seconds",font="times 15 bold")
-nota.grid(row=3,col
+
